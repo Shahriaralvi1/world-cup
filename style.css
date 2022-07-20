@@ -36,13 +36,31 @@ body {
 
 }
 
-.dashboard-image img {
+dashboard-image img {
     margin-left: -50px;
     margin-top: -80px;
     text-decoration: none;
     margin-bottom: -7px;
     height: 500px;
+}
 
+
+
+
+button {
+    width: 140px;
+    border: 0;
+    padding: 12px 10px;
+    outline: none;
+    color: #fff;
+    background: linear-gradient(to right, #fb5283, #ff3527);
+    cursor: pointer;
+
+}
+
+i {
+    width: 30px;
+    display: none;
 }
 
 .live-watch {
@@ -124,6 +142,7 @@ body {
     padding: 0px 4px;
     text-align: center;
     justify-items: center;
+    justify-content: space-between;
     row-gap: 20px;
     column-gap: 20px;
 }

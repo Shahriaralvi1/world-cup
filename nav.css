@@ -15,7 +15,8 @@ nav li a {
 
 }
 
-nav li:hover {
-    background-color: rgb(101, 155, 155);
+nav li a:hover {
+    color: rgb(101, 155, 155);
     padding: 0px 5px;
+    justify-content: space-around;
 }
