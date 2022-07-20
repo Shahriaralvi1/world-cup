@@ -1,0 +1,21 @@
+nav li {
+    list-style: none;
+    margin-right: 300px;
+    padding: 0px 1px;
+    color: brown;
+
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+
+}
+
+nav li:hover {
+    background-color: rgb(101, 155, 155);
+    padding: 0px 5px;
+}

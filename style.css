@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 90%;
+
+}
+
+/* Start of first-container style ----------------------*/
+.container {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 106px 0px 0px 111px;
+    row-gap: 5px;
+    column-gap: 10px;
+    margin-top: 50px;
+    margin-left: 130px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(2, 2, 37);
+}
+
+.caption-1 {
+    font-size: 40px;
+    margin-top: 2px;
+    padding-right: 180px;
+
+    font-weight: bolder;
+}
+
+.caption-2 {
+    font-size: .8em;
+    color: rgb(119, 116, 116);
+    padding-right: 108px;
+
+}
+
+.dashboard-image img {
+    margin-left: -50px;
+    margin-top: -80px;
+    text-decoration: none;
+    margin-bottom: -7px;
+    height: 500px;
+
+}
+
+.live-watch {
+    padding: 10px 30px;
+    border-radius: 7px;
+    color: rgb(197, 169, 169);
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(107, 5, 5);
+}
+
+/* End of First-Container Style----------------------  */
+
+/* Start of Second-container style ------------------  */
+.container-2 {
+
+    width: 25%;
+    padding: 106px 0px 0px 111px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    justify-content: center;
+}
+
+.BTN {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: px;
+
+}
+
+.btn-1 {
+    margin-left: -100px;
+    padding: 10px 40px;
+    margin-top: 10px;
+    margin-left: -100px;
+    padding: 10px 30px;
+    border-radius: 7px;
+    color: rgb(197, 169, 169);
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.btn-2 {
+    margin-top: 10px;
+    margin-left: -100px;
+    padding: 10px 72px;
+    border-radius: 7px;
+    color: rgb(197, 169, 169);
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(107, 5, 5);
+}
+
+
+
+.blog {
+
+    text-align: center;
+    justify-items: center;
+    margin-top: -15px;
+    box-shadow: 5px 5px 500px rgb(211, 209, 209);
+    padding: 0x 0px;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.blogs {
+
+    width: 0%;
+
+    margin-left: 25%;
+    margin-top: -30px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 2fr);
+    padding: 0px 4px;
+    text-align: center;
+    justify-items: center;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+
+
+
+
+
+
+
+
+.btn-trans {
+    margin-left: 0px;
+    padding: 2px 8px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
+
+.edit-icon {
+    font-size: 12px;
+    margin-left: 0px;
+    text-align: center;
+    align-items: center;
+}
+
+
+/* End of Second-container style ------------------  */
+
+/* Start of Third-container style ------------------  */
+.container-3 {
+    background-color: rgb(34, 34, 0);
+    padding: 80px 40px;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -90px;
+}
+
+.design {
+    padding: 20px 100px;
+    margin-left: 20px;
+}
+
+#infol {
+    color: rgb(255, 255, 255);
+    text-align: centers;
+}
+
+.hr-1 {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgb(255, 255, 255);
+
+    width: 100%;
+
+
+}
+
+.terms {
+    text-decoration: none;
+    font-size: 12px;
+    display: inline-flex;
+    column-gap: 15px;
+    text-align: center;
+    color: aliceblue;
+}
+
+/* End of Third-container style ------------------  */
